@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="string1">1</string>
+    <string name="string2">2</string>
+    <string name="string3">3</string>
+    <string name="string4">4</string>
+    <string name="string5">5</string>
+
+</resources>
